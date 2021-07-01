@@ -9,7 +9,7 @@ by W. Richard Stevens and by Stephen A. Rago.
 These programs are examples of some of the services provided
 by the UNIX operating systems.
 
-## Important notes
+## Important Notes
 
 All of these programs were tested using using macOS Version 11.4 and the 
 Apple clang version 12.0.5 compiler; therefore, there is no guarantee that
